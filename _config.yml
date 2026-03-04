@@ -1,0 +1,15 @@
+title: Dharsha SR
+description: Final Year Law Student | Legal Intern
+theme: minima
+
+author:
+  name: Dharsha SR
+  email: dharshasr9@gmail.com
+
+header_pages:
+  - about.md
+  - experience.md
+  - education.md
+  - skills.md
+  - achievements.md
+  - contact.md
